@@ -1,0 +1,1 @@
+{ apiVersion = "image.toolkit.fluxcd.io/v1beta2", kind = "Imageupdateautomation" }

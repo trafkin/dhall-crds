@@ -1,0 +1,1 @@
+{ apiVersion = "sloth.slok.dev/v1", kind = "Prometheusservicelevel" }

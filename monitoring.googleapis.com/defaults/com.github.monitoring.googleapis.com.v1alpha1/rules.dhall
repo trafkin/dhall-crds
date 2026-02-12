@@ -1,0 +1,1 @@
+{ apiVersion = "monitoring.googleapis.com/v1alpha1", kind = "Rules" }

@@ -1,0 +1,1 @@
+{ apiVersion = "migrations.kubevirt.io/v1alpha1", kind = "Migrationpolicy" }

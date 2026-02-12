@@ -1,0 +1,1 @@
+{ apiVersion = "vshn.appcat.vshn.io/v1", kind = "Xvshnminio" }

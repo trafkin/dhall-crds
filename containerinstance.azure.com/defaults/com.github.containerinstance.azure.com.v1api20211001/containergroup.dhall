@@ -1,0 +1,1 @@
+{ apiVersion = "containerinstance.azure.com/v1api20211001", kind = "Containergroup" }

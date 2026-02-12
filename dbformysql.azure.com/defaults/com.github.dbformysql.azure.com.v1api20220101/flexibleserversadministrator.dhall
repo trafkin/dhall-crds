@@ -1,0 +1,1 @@
+{ apiVersion = "dbformysql.azure.com/v1api20220101", kind = "Flexibleserversadministrator" }

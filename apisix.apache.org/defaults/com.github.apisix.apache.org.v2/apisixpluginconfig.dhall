@@ -1,0 +1,1 @@
+{ apiVersion = "apisix.apache.org/v2", kind = "Apisixpluginconfig" }

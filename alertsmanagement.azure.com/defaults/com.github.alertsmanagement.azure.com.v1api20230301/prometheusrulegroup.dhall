@@ -1,0 +1,1 @@
+{ apiVersion = "alertsmanagement.azure.com/v1api20230301", kind = "Prometheusrulegroup" }

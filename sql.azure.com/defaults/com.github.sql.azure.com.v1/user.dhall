@@ -1,0 +1,1 @@
+{ apiVersion = "sql.azure.com/v1", kind = "User" }

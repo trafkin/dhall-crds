@@ -1,0 +1,1 @@
+{ apiVersion = "cloudprovider.grafana.crossplane.io/v1alpha1", kind = "Azurecredential" }

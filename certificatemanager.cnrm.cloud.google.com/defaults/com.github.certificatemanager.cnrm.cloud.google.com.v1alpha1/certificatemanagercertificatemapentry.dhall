@@ -1,0 +1,1 @@
+{ apiVersion = "certificatemanager.cnrm.cloud.google.com/v1alpha1", kind = "Certificatemanagercertificatemapentry" }

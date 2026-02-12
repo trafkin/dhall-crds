@@ -1,0 +1,1 @@
+{ apiVersion = "rds.aws.upbound.io/v1beta2", kind = "Proxydefaulttargetgroup" }

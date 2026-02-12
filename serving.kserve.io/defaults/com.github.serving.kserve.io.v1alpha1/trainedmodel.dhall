@@ -1,0 +1,1 @@
+{ apiVersion = "serving.kserve.io/v1alpha1", kind = "Trainedmodel" }

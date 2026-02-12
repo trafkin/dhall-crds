@@ -1,0 +1,1 @@
+{ apiVersion = "autoscaling.k8s.io/v1beta2", kind = "Verticalpodautoscaler" }

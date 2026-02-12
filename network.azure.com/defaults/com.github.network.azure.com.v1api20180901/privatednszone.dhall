@@ -1,0 +1,1 @@
+{ apiVersion = "network.azure.com/v1api20180901", kind = "Privatednszone" }

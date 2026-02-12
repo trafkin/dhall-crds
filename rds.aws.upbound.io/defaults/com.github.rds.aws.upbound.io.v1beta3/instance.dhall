@@ -1,0 +1,1 @@
+{ apiVersion = "rds.aws.upbound.io/v1beta3", kind = "Instance" }

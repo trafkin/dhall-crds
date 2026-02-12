@@ -1,0 +1,1 @@
+{ apiVersion = "container.cnrm.cloud.google.com/v1beta1", kind = "Containernodepool" }

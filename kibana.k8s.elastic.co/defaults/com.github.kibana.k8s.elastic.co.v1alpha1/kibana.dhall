@@ -1,0 +1,1 @@
+{ apiVersion = "kibana.k8s.elastic.co/v1alpha1", kind = "Kibana" }

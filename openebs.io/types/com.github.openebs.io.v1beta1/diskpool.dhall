@@ -1,0 +1,4 @@
+{
+  spec : { }
+, status : Optional { }
+}

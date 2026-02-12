@@ -1,0 +1,1 @@
+{ apiVersion = "bigquerydatapolicy.cnrm.cloud.google.com/v1alpha1", kind = "Bigquerydatapolicydatapolicy" }

@@ -1,0 +1,3 @@
+{ Type = ./../../types/com.github.fluentd.fluent.io.v1alpha1/clusterfilter.dhall
+, default = ./../../defaults/com.github.fluentd.fluent.io.v1alpha1/clusterfilter.dhall
+}

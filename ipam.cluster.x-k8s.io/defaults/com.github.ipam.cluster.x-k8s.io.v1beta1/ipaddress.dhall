@@ -1,0 +1,1 @@
+{ apiVersion = "ipam.cluster.x-k8s.io/v1beta1", kind = "Ipaddress" }

@@ -1,0 +1,1 @@
+{ apiVersion = "helm.k0sproject.io/v1beta1", kind = "Chart" }

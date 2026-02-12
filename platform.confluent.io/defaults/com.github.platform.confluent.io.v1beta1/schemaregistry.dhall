@@ -1,0 +1,1 @@
+{ apiVersion = "platform.confluent.io/v1beta1", kind = "Schemaregistry" }

@@ -1,0 +1,1 @@
+{ apiVersion = "fluentd.fluent.io/v1alpha1", kind = "Fluentd" }

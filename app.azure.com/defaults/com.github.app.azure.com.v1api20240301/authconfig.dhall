@@ -1,0 +1,1 @@
+{ apiVersion = "app.azure.com/v1api20240301", kind = "Authconfig" }

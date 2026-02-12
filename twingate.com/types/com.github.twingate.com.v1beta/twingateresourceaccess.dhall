@@ -1,0 +1,4 @@
+{
+  spec : Text
+, status : Optional { }
+}

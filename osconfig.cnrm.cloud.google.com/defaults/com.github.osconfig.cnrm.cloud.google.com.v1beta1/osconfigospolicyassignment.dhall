@@ -1,0 +1,1 @@
+{ apiVersion = "osconfig.cnrm.cloud.google.com/v1beta1", kind = "Osconfigospolicyassignment" }

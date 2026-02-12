@@ -1,0 +1,1 @@
+{ apiVersion = "csi.ceph.io/v1", kind = "Clientprofile" }

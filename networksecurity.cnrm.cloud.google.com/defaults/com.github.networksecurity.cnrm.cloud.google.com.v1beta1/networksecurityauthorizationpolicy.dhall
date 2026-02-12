@@ -1,0 +1,1 @@
+{ apiVersion = "networksecurity.cnrm.cloud.google.com/v1beta1", kind = "Networksecurityauthorizationpolicy" }

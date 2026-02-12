@@ -1,0 +1,1 @@
+{ apiVersion = "capi.weave.works/v1alpha2", kind = "Capitemplate" }

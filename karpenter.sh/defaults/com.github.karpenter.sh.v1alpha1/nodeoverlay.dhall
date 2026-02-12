@@ -1,0 +1,1 @@
+{ apiVersion = "karpenter.sh/v1alpha1", kind = "Nodeoverlay" }

@@ -1,0 +1,1 @@
+{ apiVersion = "anywhere.eks.amazonaws.com/v1alpha4", kind = "Dockerclustertemplate" }

@@ -1,0 +1,1 @@
+{ apiVersion = "edgenetwork.cnrm.cloud.google.com/v1beta1", kind = "Edgenetworksubnet" }

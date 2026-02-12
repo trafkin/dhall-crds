@@ -1,0 +1,1 @@
+{ apiVersion = "compute.azure.com/v1api20201201", kind = "Virtualmachinescalesetsextension" }

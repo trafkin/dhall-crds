@@ -1,0 +1,1 @@
+{ apiVersion = "operator.tigera.io/v1", kind = "Installation" }

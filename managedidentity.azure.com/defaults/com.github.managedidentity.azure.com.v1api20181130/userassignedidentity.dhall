@@ -1,0 +1,1 @@
+{ apiVersion = "managedidentity.azure.com/v1api20181130", kind = "Userassignedidentity" }

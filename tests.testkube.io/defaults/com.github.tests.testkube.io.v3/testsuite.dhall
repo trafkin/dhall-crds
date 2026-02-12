@@ -1,0 +1,1 @@
+{ apiVersion = "tests.testkube.io/v3", kind = "Testsuite" }

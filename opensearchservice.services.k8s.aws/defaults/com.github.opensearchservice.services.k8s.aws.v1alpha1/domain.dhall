@@ -1,0 +1,1 @@
+{ apiVersion = "opensearchservice.services.k8s.aws/v1alpha1", kind = "Domain" }

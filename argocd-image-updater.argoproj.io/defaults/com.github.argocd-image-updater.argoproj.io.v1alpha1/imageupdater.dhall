@@ -1,0 +1,1 @@
+{ apiVersion = "argocd-image-updater.argoproj.io/v1alpha1", kind = "Imageupdater" }

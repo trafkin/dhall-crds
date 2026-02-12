@@ -1,0 +1,1 @@
+{ apiVersion = "opentelemetry.io/v1alpha1", kind = "Opentelemetrycollector" }

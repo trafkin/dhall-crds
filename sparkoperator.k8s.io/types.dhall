@@ -1,0 +1,4 @@
+{
+  scheduledsparkapplication = ./types/com.github.sparkoperator.k8s.io.v1beta2/scheduledsparkapplication.dhall
+, sparkapplication = ./types/com.github.sparkoperator.k8s.io.v1beta2/sparkapplication.dhall
+}

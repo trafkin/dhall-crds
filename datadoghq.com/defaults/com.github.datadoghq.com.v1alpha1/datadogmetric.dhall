@@ -1,0 +1,1 @@
+{ apiVersion = "datadoghq.com/v1alpha1", kind = "Datadogmetric" }

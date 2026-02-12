@@ -1,0 +1,1 @@
+{ apiVersion = "k8s.nginx.org/v1alpha1", kind = "Transportserver" }

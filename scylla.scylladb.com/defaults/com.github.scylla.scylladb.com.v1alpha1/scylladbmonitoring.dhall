@@ -1,0 +1,1 @@
+{ apiVersion = "scylla.scylladb.com/v1alpha1", kind = "Scylladbmonitoring" }

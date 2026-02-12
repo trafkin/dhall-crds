@@ -1,0 +1,1 @@
+{ apiVersion = "wgpolicyk8s.io/v1alpha2", kind = "Clusterpolicyreport" }

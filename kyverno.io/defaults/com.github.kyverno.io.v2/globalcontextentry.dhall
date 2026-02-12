@@ -1,0 +1,1 @@
+{ apiVersion = "kyverno.io/v2", kind = "Globalcontextentry" }

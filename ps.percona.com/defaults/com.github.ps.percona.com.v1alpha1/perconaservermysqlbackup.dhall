@@ -1,0 +1,1 @@
+{ apiVersion = "ps.percona.com/v1alpha1", kind = "Perconaservermysqlbackup" }

@@ -1,0 +1,1 @@
+{ apiVersion = "dragonflydb.io/v1alpha1", kind = "Dragonfly" }

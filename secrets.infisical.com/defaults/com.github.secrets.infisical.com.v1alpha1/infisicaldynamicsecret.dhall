@@ -1,0 +1,1 @@
+{ apiVersion = "secrets.infisical.com/v1alpha1", kind = "Infisicaldynamicsecret" }

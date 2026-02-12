@@ -1,0 +1,1 @@
+{ apiVersion = "minio.min.io/v2", kind = "Tenant" }

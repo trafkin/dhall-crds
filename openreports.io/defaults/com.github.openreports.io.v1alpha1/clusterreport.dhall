@@ -1,0 +1,1 @@
+{ apiVersion = "openreports.io/v1alpha1", kind = "Clusterreport" }

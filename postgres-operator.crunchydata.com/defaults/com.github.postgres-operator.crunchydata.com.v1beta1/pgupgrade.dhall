@@ -1,0 +1,1 @@
+{ apiVersion = "postgres-operator.crunchydata.com/v1beta1", kind = "Pgupgrade" }

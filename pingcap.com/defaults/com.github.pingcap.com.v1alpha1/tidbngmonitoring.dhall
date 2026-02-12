@@ -1,0 +1,1 @@
+{ apiVersion = "pingcap.com/v1alpha1", kind = "Tidbngmonitoring" }

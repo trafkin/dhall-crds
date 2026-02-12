@@ -1,0 +1,1 @@
+{ apiVersion = "addons.cluster.x-k8s.io/v1alpha4", kind = "Clusterresourcesetbinding" }

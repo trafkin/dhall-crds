@@ -1,0 +1,1 @@
+{ apiVersion = "elbv2.k8s.aws/v1alpha1", kind = "Targetgroupbinding" }

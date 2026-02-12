@@ -1,0 +1,1 @@
+{ apiVersion = "executor.testkube.io/v1", kind = "Executor" }

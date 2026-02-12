@@ -1,0 +1,1 @@
+{ apiVersion = "network.azure.upbound.io/v1beta1", kind = "Firewallpolicyrulecollectiongroup" }

@@ -1,0 +1,1 @@
+{ apiVersion = "postgresql.cnpg.io/v3", kind = "Cluster" }

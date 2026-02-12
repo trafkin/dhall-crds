@@ -1,0 +1,1 @@
+{ apiVersion = "secret-sync.gke.io/v1", kind = "Secretsync" }

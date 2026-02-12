@@ -1,0 +1,1 @@
+{ apiVersion = "documentai.cnrm.cloud.google.com/v1alpha1", kind = "Documentaiprocessor" }

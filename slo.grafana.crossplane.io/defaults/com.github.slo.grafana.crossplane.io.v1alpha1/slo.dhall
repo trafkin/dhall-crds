@@ -1,0 +1,1 @@
+{ apiVersion = "slo.grafana.crossplane.io/v1alpha1", kind = "Slo" }

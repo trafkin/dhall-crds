@@ -1,0 +1,1 @@
+{ apiVersion = "metallb.io/v1beta2", kind = "Bgppeer" }

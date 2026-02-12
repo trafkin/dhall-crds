@@ -1,0 +1,1 @@
+{ apiVersion = "coroot.com/v1", kind = "Coroot" }

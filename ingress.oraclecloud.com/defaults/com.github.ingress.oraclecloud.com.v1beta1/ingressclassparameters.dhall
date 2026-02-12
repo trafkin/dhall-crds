@@ -1,0 +1,1 @@
+{ apiVersion = "ingress.oraclecloud.com/v1beta1", kind = "Ingressclassparameters" }

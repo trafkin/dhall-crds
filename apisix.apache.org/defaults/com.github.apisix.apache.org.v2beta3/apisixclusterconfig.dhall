@@ -1,0 +1,1 @@
+{ apiVersion = "apisix.apache.org/v2beta3", kind = "Apisixclusterconfig" }

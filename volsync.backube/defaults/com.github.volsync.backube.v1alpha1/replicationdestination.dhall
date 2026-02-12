@@ -1,0 +1,1 @@
+{ apiVersion = "volsync.backube/v1alpha1", kind = "Replicationdestination" }

@@ -1,0 +1,1 @@
+{ apiVersion = "apiextensions.crossplane.io/v1alpha1", kind = "Compositionrevision" }

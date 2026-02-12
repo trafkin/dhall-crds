@@ -1,0 +1,1 @@
+{ apiVersion = "addon.open-cluster-management.io/v1alpha1", kind = "Addondeploymentconfig" }

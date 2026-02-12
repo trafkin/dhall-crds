@@ -1,0 +1,1 @@
+{ apiVersion = "serving.kserve.io/v1beta1", kind = "Inferenceservice" }

@@ -1,0 +1,1 @@
+{ apiVersion = "kubernetesconfiguration.azure.com/v1api20230501", kind = "Fluxconfiguration" }

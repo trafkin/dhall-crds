@@ -1,0 +1,1 @@
+{ apiVersion = "secrets.crossplane.io/v1alpha1", kind = "Storeconfig" }

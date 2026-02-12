@@ -1,0 +1,1 @@
+{ apiVersion = "k8s.nginx.org/v1", kind = "Policy" }

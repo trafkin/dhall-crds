@@ -1,0 +1,1 @@
+{ apiVersion = "nauth.io/v1alpha1", kind = "User" }

@@ -1,0 +1,1 @@
+{ apiVersion = "bigqueryreservation.cnrm.cloud.google.com/v1alpha1", kind = "Bigqueryreservationassignment" }

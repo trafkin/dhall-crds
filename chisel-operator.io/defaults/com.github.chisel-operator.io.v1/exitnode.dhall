@@ -1,0 +1,1 @@
+{ apiVersion = "chisel-operator.io/v1", kind = "Exitnode" }

@@ -1,0 +1,1 @@
+{ apiVersion = "networking.istio.io/v1beta1", kind = "Proxyconfig" }

@@ -1,0 +1,1 @@
+{ apiVersion = "config.gatekeeper.sh/v1alpha1", kind = "Config" }

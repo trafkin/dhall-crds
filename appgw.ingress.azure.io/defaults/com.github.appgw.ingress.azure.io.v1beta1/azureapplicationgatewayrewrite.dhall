@@ -1,0 +1,1 @@
+{ apiVersion = "appgw.ingress.azure.io/v1beta1", kind = "Azureapplicationgatewayrewrite" }

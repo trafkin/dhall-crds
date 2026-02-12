@@ -1,0 +1,1 @@
+{ apiVersion = "syncset.gatekeeper.sh/v1alpha1", kind = "Syncset" }

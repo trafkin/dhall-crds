@@ -1,0 +1,1 @@
+{ apiVersion = "operator.h3poteto.dev/v1alpha1", kind = "Endpointgroupbinding" }

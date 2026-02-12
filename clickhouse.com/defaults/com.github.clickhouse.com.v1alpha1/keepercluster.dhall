@@ -1,0 +1,1 @@
+{ apiVersion = "clickhouse.com/v1alpha1", kind = "Keepercluster" }

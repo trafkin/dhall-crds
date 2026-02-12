@@ -1,0 +1,1 @@
+{ apiVersion = "tuppr.home-operations.com/v1alpha1", kind = "Talosupgrade" }

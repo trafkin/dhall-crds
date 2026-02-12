@@ -1,0 +1,1 @@
+{ apiVersion = "grafana.crossplane.io/v1beta1", kind = "Providerconfig" }

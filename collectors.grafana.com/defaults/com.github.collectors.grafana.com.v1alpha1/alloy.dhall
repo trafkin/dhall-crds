@@ -1,0 +1,1 @@
+{ apiVersion = "collectors.grafana.com/v1alpha1", kind = "Alloy" }

@@ -1,0 +1,1 @@
+{ apiVersion = "aiven.io/v1alpha1", kind = "Cassandra" }

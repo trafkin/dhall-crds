@@ -1,0 +1,1 @@
+{ apiVersion = "helm.cattle.io/v1", kind = "Helmchartconfig" }

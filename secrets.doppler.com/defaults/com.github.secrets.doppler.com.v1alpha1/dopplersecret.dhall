@@ -1,0 +1,1 @@
+{ apiVersion = "secrets.doppler.com/v1alpha1", kind = "Dopplersecret" }

@@ -1,0 +1,3 @@
+{ Type = ./../../types/com.github.flagger.app.v1beta1/canary.dhall
+, default = ./../../defaults/com.github.flagger.app.v1beta1/canary.dhall
+}

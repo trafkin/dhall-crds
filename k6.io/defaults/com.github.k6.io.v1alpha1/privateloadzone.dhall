@@ -1,0 +1,1 @@
+{ apiVersion = "k6.io/v1alpha1", kind = "Privateloadzone" }

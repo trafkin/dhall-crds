@@ -1,0 +1,1 @@
+{ apiVersion = "hivemq.com/v1", kind = "Hivemqplatform" }

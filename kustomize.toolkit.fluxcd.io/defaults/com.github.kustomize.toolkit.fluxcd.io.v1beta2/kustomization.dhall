@@ -1,0 +1,1 @@
+{ apiVersion = "kustomize.toolkit.fluxcd.io/v1beta2", kind = "Kustomization" }

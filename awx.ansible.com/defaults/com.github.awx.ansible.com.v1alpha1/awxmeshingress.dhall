@@ -1,0 +1,1 @@
+{ apiVersion = "awx.ansible.com/v1alpha1", kind = "Awxmeshingress" }

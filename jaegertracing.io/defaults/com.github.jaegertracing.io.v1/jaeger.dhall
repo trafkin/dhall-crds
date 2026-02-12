@@ -1,0 +1,1 @@
+{ apiVersion = "jaegertracing.io/v1", kind = "Jaeger" }

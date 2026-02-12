@@ -1,0 +1,1 @@
+{ apiVersion = "apps.projectsveltos.io/v1alpha1", kind = "Cleaner" }

@@ -1,0 +1,1 @@
+{ apiVersion = "keyvault.azure.com/v1api20210401preview", kind = "Vault" }

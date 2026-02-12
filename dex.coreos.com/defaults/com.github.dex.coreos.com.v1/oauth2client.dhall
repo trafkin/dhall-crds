@@ -1,0 +1,1 @@
+{ apiVersion = "dex.coreos.com/v1", kind = "Oauth2client" }

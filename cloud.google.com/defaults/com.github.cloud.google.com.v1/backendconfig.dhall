@@ -1,0 +1,1 @@
+{ apiVersion = "cloud.google.com/v1", kind = "Backendconfig" }

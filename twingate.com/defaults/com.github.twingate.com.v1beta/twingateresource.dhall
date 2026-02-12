@@ -1,0 +1,1 @@
+{ apiVersion = "twingate.com/v1beta", kind = "Twingateresource" }

@@ -1,0 +1,1 @@
+{ apiVersion = "certmanager.step.sm/v1beta1", kind = "Stepissuer" }

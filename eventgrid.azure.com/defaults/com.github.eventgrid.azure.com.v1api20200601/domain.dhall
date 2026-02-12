@@ -1,0 +1,1 @@
+{ apiVersion = "eventgrid.azure.com/v1api20200601", kind = "Domain" }

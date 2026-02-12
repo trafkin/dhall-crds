@@ -1,0 +1,1 @@
+{ apiVersion = "datadoghq.com/v1alpha2", kind = "Datadogpodautoscaler" }

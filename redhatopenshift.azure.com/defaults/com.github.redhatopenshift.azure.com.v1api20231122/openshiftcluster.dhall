@@ -1,0 +1,1 @@
+{ apiVersion = "redhatopenshift.azure.com/v1api20231122", kind = "Openshiftcluster" }

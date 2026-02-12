@@ -1,0 +1,7 @@
+{
+  apiVerson : Optional Text
+, kind : Optional Text
+, metadata : Optional { }
+, spec : { }
+, status : Optional { }
+}

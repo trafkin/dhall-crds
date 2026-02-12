@@ -1,0 +1,1 @@
+{ apiVersion = "eks.aws.upbound.io/v1beta1", kind = "Addon" }

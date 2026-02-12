@@ -1,0 +1,1 @@
+{ apiVersion = "managedidentity.azure.com/v1api20220131preview", kind = "Federatedidentitycredential" }

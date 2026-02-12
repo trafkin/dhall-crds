@@ -1,0 +1,1 @@
+{ apiVersion = "documentdb.azure.com/v1api20231115", kind = "Sqldatabasecontainertrigger" }

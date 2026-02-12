@@ -1,0 +1,1 @@
+{ apiVersion = "dataprotection.azure.com/v1api20231101", kind = "Backupvault" }

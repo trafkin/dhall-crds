@@ -1,0 +1,1 @@
+{ apiVersion = "dbformysql.azure.com/v1", kind = "User" }

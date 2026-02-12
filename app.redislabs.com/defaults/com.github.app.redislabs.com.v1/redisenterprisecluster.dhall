@@ -1,0 +1,1 @@
+{ apiVersion = "app.redislabs.com/v1", kind = "Redisenterprisecluster" }

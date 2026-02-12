@@ -1,0 +1,26 @@
+{
+  bucket = ./schemas/com.github.s3.aws.m.upbound.io.v1beta1/bucket.dhall
+, bucketaccelerateconfiguration = ./schemas/com.github.s3.aws.m.upbound.io.v1beta1/bucketaccelerateconfiguration.dhall
+, bucketacl = ./schemas/com.github.s3.aws.m.upbound.io.v1beta1/bucketacl.dhall
+, bucketanalyticsconfiguration = ./schemas/com.github.s3.aws.m.upbound.io.v1beta1/bucketanalyticsconfiguration.dhall
+, bucketcorsconfiguration = ./schemas/com.github.s3.aws.m.upbound.io.v1beta1/bucketcorsconfiguration.dhall
+, bucketintelligenttieringconfiguration = ./schemas/com.github.s3.aws.m.upbound.io.v1beta1/bucketintelligenttieringconfiguration.dhall
+, bucketinventory = ./schemas/com.github.s3.aws.m.upbound.io.v1beta1/bucketinventory.dhall
+, bucketlifecycleconfiguration = ./schemas/com.github.s3.aws.m.upbound.io.v1beta1/bucketlifecycleconfiguration.dhall
+, bucketlogging = ./schemas/com.github.s3.aws.m.upbound.io.v1beta1/bucketlogging.dhall
+, bucketmetric = ./schemas/com.github.s3.aws.m.upbound.io.v1beta1/bucketmetric.dhall
+, bucketnotification = ./schemas/com.github.s3.aws.m.upbound.io.v1beta1/bucketnotification.dhall
+, bucketobject = ./schemas/com.github.s3.aws.m.upbound.io.v1beta1/bucketobject.dhall
+, bucketobjectlockconfiguration = ./schemas/com.github.s3.aws.m.upbound.io.v1beta1/bucketobjectlockconfiguration.dhall
+, bucketownershipcontrols = ./schemas/com.github.s3.aws.m.upbound.io.v1beta1/bucketownershipcontrols.dhall
+, bucketpolicy = ./schemas/com.github.s3.aws.m.upbound.io.v1beta1/bucketpolicy.dhall
+, bucketpublicaccessblock = ./schemas/com.github.s3.aws.m.upbound.io.v1beta1/bucketpublicaccessblock.dhall
+, bucketreplicationconfiguration = ./schemas/com.github.s3.aws.m.upbound.io.v1beta1/bucketreplicationconfiguration.dhall
+, bucketrequestpaymentconfiguration = ./schemas/com.github.s3.aws.m.upbound.io.v1beta1/bucketrequestpaymentconfiguration.dhall
+, bucketserversideencryptionconfiguration = ./schemas/com.github.s3.aws.m.upbound.io.v1beta1/bucketserversideencryptionconfiguration.dhall
+, bucketversioning = ./schemas/com.github.s3.aws.m.upbound.io.v1beta1/bucketversioning.dhall
+, bucketwebsiteconfiguration = ./schemas/com.github.s3.aws.m.upbound.io.v1beta1/bucketwebsiteconfiguration.dhall
+, directorybucket = ./schemas/com.github.s3.aws.m.upbound.io.v1beta1/directorybucket.dhall
+, object = ./schemas/com.github.s3.aws.m.upbound.io.v1beta1/object.dhall
+, objectcopy = ./schemas/com.github.s3.aws.m.upbound.io.v1beta1/objectcopy.dhall
+}

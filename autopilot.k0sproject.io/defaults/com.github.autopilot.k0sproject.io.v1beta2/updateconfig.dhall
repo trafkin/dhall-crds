@@ -1,0 +1,1 @@
+{ apiVersion = "autopilot.k0sproject.io/v1beta2", kind = "Updateconfig" }

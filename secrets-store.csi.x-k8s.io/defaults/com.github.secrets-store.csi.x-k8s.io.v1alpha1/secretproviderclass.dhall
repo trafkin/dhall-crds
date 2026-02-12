@@ -1,0 +1,1 @@
+{ apiVersion = "secrets-store.csi.x-k8s.io/v1alpha1", kind = "Secretproviderclass" }

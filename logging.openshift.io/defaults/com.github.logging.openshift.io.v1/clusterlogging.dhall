@@ -1,0 +1,1 @@
+{ apiVersion = "logging.openshift.io/v1", kind = "Clusterlogging" }

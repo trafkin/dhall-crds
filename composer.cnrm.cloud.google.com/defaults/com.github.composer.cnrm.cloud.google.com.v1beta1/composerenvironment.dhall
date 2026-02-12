@@ -1,0 +1,1 @@
+{ apiVersion = "composer.cnrm.cloud.google.com/v1beta1", kind = "Composerenvironment" }

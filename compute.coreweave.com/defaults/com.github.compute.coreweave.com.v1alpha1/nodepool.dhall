@@ -1,0 +1,1 @@
+{ apiVersion = "compute.coreweave.com/v1alpha1", kind = "Nodepool" }

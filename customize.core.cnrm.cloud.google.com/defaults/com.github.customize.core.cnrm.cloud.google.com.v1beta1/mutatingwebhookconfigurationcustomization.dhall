@@ -1,0 +1,1 @@
+{ apiVersion = "customize.core.cnrm.cloud.google.com/v1beta1", kind = "Mutatingwebhookconfigurationcustomization" }

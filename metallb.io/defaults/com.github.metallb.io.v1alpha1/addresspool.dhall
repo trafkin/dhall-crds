@@ -1,0 +1,1 @@
+{ apiVersion = "metallb.io/v1alpha1", kind = "Addresspool" }

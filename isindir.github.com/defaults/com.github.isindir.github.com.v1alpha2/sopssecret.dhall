@@ -1,0 +1,1 @@
+{ apiVersion = "isindir.github.com/v1alpha2", kind = "Sopssecret" }

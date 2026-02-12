@@ -1,0 +1,1 @@
+{ apiVersion = "grafana.integreatly.org/v1beta1", kind = "Grafanaserviceaccount" }

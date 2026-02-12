@@ -1,0 +1,1 @@
+{ apiVersion = "packages.eks.amazonaws.com/v1alpha1", kind = "Packagebundlecontroller" }

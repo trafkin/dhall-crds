@@ -1,0 +1,1 @@
+{ apiVersion = "ais.nvidia.com/v1beta1", kind = "Aistore" }

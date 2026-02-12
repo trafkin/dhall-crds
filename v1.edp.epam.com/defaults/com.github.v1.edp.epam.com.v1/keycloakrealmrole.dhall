@@ -1,0 +1,1 @@
+{ apiVersion = "v1.edp.epam.com/v1", kind = "Keycloakrealmrole" }

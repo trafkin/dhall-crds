@@ -1,0 +1,1 @@
+{ apiVersion = "forklift.cdi.kubevirt.io/v1beta1", kind = "Openstackvolumepopulator" }

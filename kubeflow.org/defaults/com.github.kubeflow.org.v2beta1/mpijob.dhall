@@ -1,0 +1,1 @@
+{ apiVersion = "kubeflow.org/v2beta1", kind = "Mpijob" }

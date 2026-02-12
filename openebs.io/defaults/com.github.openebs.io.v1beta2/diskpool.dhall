@@ -1,0 +1,1 @@
+{ apiVersion = "openebs.io/v1beta2", kind = "Diskpool" }

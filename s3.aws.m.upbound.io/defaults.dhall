@@ -1,0 +1,26 @@
+{
+  bucket = ./defaults/com.github.s3.aws.m.upbound.io.v1beta1/bucket.dhall
+, bucketaccelerateconfiguration = ./defaults/com.github.s3.aws.m.upbound.io.v1beta1/bucketaccelerateconfiguration.dhall
+, bucketacl = ./defaults/com.github.s3.aws.m.upbound.io.v1beta1/bucketacl.dhall
+, bucketanalyticsconfiguration = ./defaults/com.github.s3.aws.m.upbound.io.v1beta1/bucketanalyticsconfiguration.dhall
+, bucketcorsconfiguration = ./defaults/com.github.s3.aws.m.upbound.io.v1beta1/bucketcorsconfiguration.dhall
+, bucketintelligenttieringconfiguration = ./defaults/com.github.s3.aws.m.upbound.io.v1beta1/bucketintelligenttieringconfiguration.dhall
+, bucketinventory = ./defaults/com.github.s3.aws.m.upbound.io.v1beta1/bucketinventory.dhall
+, bucketlifecycleconfiguration = ./defaults/com.github.s3.aws.m.upbound.io.v1beta1/bucketlifecycleconfiguration.dhall
+, bucketlogging = ./defaults/com.github.s3.aws.m.upbound.io.v1beta1/bucketlogging.dhall
+, bucketmetric = ./defaults/com.github.s3.aws.m.upbound.io.v1beta1/bucketmetric.dhall
+, bucketnotification = ./defaults/com.github.s3.aws.m.upbound.io.v1beta1/bucketnotification.dhall
+, bucketobject = ./defaults/com.github.s3.aws.m.upbound.io.v1beta1/bucketobject.dhall
+, bucketobjectlockconfiguration = ./defaults/com.github.s3.aws.m.upbound.io.v1beta1/bucketobjectlockconfiguration.dhall
+, bucketownershipcontrols = ./defaults/com.github.s3.aws.m.upbound.io.v1beta1/bucketownershipcontrols.dhall
+, bucketpolicy = ./defaults/com.github.s3.aws.m.upbound.io.v1beta1/bucketpolicy.dhall
+, bucketpublicaccessblock = ./defaults/com.github.s3.aws.m.upbound.io.v1beta1/bucketpublicaccessblock.dhall
+, bucketreplicationconfiguration = ./defaults/com.github.s3.aws.m.upbound.io.v1beta1/bucketreplicationconfiguration.dhall
+, bucketrequestpaymentconfiguration = ./defaults/com.github.s3.aws.m.upbound.io.v1beta1/bucketrequestpaymentconfiguration.dhall
+, bucketserversideencryptionconfiguration = ./defaults/com.github.s3.aws.m.upbound.io.v1beta1/bucketserversideencryptionconfiguration.dhall
+, bucketversioning = ./defaults/com.github.s3.aws.m.upbound.io.v1beta1/bucketversioning.dhall
+, bucketwebsiteconfiguration = ./defaults/com.github.s3.aws.m.upbound.io.v1beta1/bucketwebsiteconfiguration.dhall
+, directorybucket = ./defaults/com.github.s3.aws.m.upbound.io.v1beta1/directorybucket.dhall
+, object = ./defaults/com.github.s3.aws.m.upbound.io.v1beta1/object.dhall
+, objectcopy = ./defaults/com.github.s3.aws.m.upbound.io.v1beta1/objectcopy.dhall
+}

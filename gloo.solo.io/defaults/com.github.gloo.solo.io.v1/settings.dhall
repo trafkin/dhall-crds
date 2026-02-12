@@ -1,0 +1,1 @@
+{ apiVersion = "gloo.solo.io/v1", kind = "Settings" }

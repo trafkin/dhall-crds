@@ -1,0 +1,1 @@
+{ apiVersion = "apisix.apache.org/v1alpha1", kind = "Backendtrafficpolicy" }

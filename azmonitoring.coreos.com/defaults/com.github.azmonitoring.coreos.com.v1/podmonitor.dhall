@@ -1,0 +1,1 @@
+{ apiVersion = "azmonitoring.coreos.com/v1", kind = "Podmonitor" }

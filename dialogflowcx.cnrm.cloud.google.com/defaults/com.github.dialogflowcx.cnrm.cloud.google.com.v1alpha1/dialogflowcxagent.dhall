@@ -1,0 +1,1 @@
+{ apiVersion = "dialogflowcx.cnrm.cloud.google.com/v1alpha1", kind = "Dialogflowcxagent" }

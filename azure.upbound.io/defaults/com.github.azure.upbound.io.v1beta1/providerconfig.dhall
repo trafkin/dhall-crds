@@ -1,0 +1,1 @@
+{ apiVersion = "azure.upbound.io/v1beta1", kind = "Providerconfig" }

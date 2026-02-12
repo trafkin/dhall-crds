@@ -1,0 +1,1 @@
+{ apiVersion = "ceph.rook.io/v1", kind = "Cephclient" }

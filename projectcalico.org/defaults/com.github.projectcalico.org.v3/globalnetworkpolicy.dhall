@@ -1,0 +1,1 @@
+{ apiVersion = "projectcalico.org/v3", kind = "Globalnetworkpolicy" }

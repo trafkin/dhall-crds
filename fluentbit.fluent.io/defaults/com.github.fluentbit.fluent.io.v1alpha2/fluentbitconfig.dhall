@@ -1,0 +1,1 @@
+{ apiVersion = "fluentbit.fluent.io/v1alpha2", kind = "Fluentbitconfig" }

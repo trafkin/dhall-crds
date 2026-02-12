@@ -1,0 +1,1 @@
+{ apiVersion = "vault.banzaicloud.com/v1alpha1", kind = "Vault" }

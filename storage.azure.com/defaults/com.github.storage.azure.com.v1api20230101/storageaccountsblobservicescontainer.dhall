@@ -1,0 +1,1 @@
+{ apiVersion = "storage.azure.com/v1api20230101", kind = "Storageaccountsblobservicescontainer" }

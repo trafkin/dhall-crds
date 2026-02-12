@@ -1,0 +1,1 @@
+{ apiVersion = "core.strimzi.io/v1beta2", kind = "Strimzipodset" }

@@ -1,0 +1,1 @@
+{ apiVersion = "appcat.vshn.io/v1", kind = "Objectbucket" }

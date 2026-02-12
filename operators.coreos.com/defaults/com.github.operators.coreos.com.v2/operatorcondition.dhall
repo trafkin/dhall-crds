@@ -1,0 +1,1 @@
+{ apiVersion = "operators.coreos.com/v2", kind = "Operatorcondition" }

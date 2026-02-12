@@ -1,0 +1,1 @@
+{ apiVersion = "psmdb.percona.com/v1", kind = "Perconaservermongodbrestore" }

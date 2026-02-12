@@ -1,0 +1,1 @@
+{ apiVersion = "image.toolkit.fluxcd.io/v1beta1", kind = "Imagepolicy" }

@@ -1,0 +1,1 @@
+{ apiVersion = "kafka.strimzi.io/v1beta1", kind = "Kafkatopic" }

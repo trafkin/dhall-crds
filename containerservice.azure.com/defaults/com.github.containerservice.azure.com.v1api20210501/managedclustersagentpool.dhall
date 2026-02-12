@@ -1,0 +1,1 @@
+{ apiVersion = "containerservice.azure.com/v1api20210501", kind = "Managedclustersagentpool" }

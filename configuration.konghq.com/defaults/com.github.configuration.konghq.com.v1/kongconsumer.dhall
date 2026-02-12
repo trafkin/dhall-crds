@@ -1,0 +1,1 @@
+{ apiVersion = "configuration.konghq.com/v1", kind = "Kongconsumer" }

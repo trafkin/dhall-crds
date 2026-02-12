@@ -1,0 +1,1 @@
+{ apiVersion = "autoscaling.cast.ai/v1", kind = "Recommendations" }

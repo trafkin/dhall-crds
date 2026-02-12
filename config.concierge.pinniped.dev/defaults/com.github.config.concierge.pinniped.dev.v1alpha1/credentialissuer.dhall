@@ -1,0 +1,1 @@
+{ apiVersion = "config.concierge.pinniped.dev/v1alpha1", kind = "Credentialissuer" }

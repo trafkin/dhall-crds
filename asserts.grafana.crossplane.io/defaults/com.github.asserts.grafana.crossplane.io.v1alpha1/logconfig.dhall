@@ -1,0 +1,1 @@
+{ apiVersion = "asserts.grafana.crossplane.io/v1alpha1", kind = "Logconfig" }

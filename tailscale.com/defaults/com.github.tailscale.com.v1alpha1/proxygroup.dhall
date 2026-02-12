@@ -1,0 +1,1 @@
+{ apiVersion = "tailscale.com/v1alpha1", kind = "Proxygroup" }

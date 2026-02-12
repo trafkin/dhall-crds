@@ -1,0 +1,1 @@
+{ apiVersion = "elasticache.aws.m.upbound.io/v1beta1", kind = "Globalreplicationgroup" }

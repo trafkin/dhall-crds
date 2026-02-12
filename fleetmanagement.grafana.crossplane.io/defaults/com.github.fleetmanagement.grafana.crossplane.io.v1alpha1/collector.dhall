@@ -1,0 +1,1 @@
+{ apiVersion = "fleetmanagement.grafana.crossplane.io/v1alpha1", kind = "Collector" }

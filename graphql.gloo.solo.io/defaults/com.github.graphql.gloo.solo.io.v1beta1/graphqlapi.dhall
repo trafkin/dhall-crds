@@ -1,0 +1,1 @@
+{ apiVersion = "graphql.gloo.solo.io/v1beta1", kind = "Graphqlapi" }

@@ -1,0 +1,1 @@
+{ apiVersion = "kinda.rocks/v1beta1", kind = "Dbinstance" }

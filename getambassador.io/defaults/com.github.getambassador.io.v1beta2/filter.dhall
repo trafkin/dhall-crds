@@ -1,0 +1,1 @@
+{ apiVersion = "getambassador.io/v1beta2", kind = "Filter" }

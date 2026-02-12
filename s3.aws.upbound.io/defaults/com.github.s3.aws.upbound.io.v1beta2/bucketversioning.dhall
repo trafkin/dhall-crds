@@ -1,0 +1,1 @@
+{ apiVersion = "s3.aws.upbound.io/v1beta2", kind = "Bucketversioning" }

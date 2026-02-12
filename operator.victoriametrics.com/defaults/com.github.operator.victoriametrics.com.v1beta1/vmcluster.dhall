@@ -1,0 +1,1 @@
+{ apiVersion = "operator.victoriametrics.com/v1beta1", kind = "Vmcluster" }

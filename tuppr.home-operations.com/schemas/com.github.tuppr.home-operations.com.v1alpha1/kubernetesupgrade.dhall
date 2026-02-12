@@ -1,0 +1,3 @@
+{ Type = ./../../types/com.github.tuppr.home-operations.com.v1alpha1/kubernetesupgrade.dhall
+, default = ./../../defaults/com.github.tuppr.home-operations.com.v1alpha1/kubernetesupgrade.dhall
+}

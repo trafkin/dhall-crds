@@ -1,0 +1,1 @@
+{ apiVersion = "ops.crossplane.io/v1alpha1", kind = "Watchoperation" }

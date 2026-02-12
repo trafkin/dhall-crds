@@ -1,0 +1,1 @@
+{ apiVersion = "eraser.sh/v1alpha1", kind = "Imagelist" }

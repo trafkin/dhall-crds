@@ -1,0 +1,1 @@
+{ apiVersion = "k8s.keycloak.org/v2alpha1", kind = "Keycloakrealmimport" }

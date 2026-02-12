@@ -1,0 +1,1 @@
+{ apiVersion = "monitoring.googleapis.com/v1", kind = "Clusterrules" }

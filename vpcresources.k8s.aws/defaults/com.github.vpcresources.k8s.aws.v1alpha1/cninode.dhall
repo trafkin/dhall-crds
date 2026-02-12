@@ -1,0 +1,1 @@
+{ apiVersion = "vpcresources.k8s.aws/v1alpha1", kind = "Cninode" }

@@ -1,0 +1,1 @@
+{ apiVersion = "karpenter.sh/v1", kind = "Nodepool" }

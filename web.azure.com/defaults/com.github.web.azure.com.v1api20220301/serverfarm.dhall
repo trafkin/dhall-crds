@@ -1,0 +1,1 @@
+{ apiVersion = "web.azure.com/v1api20220301", kind = "Serverfarm" }

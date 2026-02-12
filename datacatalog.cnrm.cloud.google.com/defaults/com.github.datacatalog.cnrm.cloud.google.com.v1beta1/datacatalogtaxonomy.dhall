@@ -1,0 +1,1 @@
+{ apiVersion = "datacatalog.cnrm.cloud.google.com/v1beta1", kind = "Datacatalogtaxonomy" }

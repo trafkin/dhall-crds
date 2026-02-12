@@ -1,0 +1,1 @@
+{ apiVersion = "ratelimit.solo.io/v1alpha1", kind = "Ratelimitconfig" }

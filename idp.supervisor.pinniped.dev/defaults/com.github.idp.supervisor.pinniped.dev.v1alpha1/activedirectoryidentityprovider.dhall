@@ -1,0 +1,1 @@
+{ apiVersion = "idp.supervisor.pinniped.dev/v1alpha1", kind = "Activedirectoryidentityprovider" }

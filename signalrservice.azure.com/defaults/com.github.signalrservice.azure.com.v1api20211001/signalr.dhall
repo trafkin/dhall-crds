@@ -1,0 +1,1 @@
+{ apiVersion = "signalrservice.azure.com/v1api20211001", kind = "Signalr" }

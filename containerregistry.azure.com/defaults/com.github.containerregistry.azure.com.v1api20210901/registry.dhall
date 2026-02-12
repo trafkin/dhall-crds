@@ -1,0 +1,1 @@
+{ apiVersion = "containerregistry.azure.com/v1api20210901", kind = "Registry" }

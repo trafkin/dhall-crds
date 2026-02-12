@@ -1,0 +1,1 @@
+{ apiVersion = "gravitee.io/v1alpha1", kind = "Apiv4definition" }

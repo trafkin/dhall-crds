@@ -1,0 +1,1 @@
+{ apiVersion = "projectcontour.io/v1", kind = "Httpproxy" }

@@ -1,0 +1,1 @@
+{ apiVersion = "cdi.kubevirt.io/v1beta1", kind = "Volumeimportsource" }

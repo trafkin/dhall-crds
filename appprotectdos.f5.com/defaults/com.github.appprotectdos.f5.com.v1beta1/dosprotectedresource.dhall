@@ -1,0 +1,1 @@
+{ apiVersion = "appprotectdos.f5.com/v1beta1", kind = "Dosprotectedresource" }

@@ -1,0 +1,1 @@
+{ apiVersion = "kubevirt.io/v1", kind = "Virtualmachineinstancereplicaset" }

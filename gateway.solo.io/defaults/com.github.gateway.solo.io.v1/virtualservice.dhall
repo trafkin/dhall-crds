@@ -1,0 +1,1 @@
+{ apiVersion = "gateway.solo.io/v1", kind = "Virtualservice" }

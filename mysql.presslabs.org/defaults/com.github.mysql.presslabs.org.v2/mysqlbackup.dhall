@@ -1,0 +1,1 @@
+{ apiVersion = "mysql.presslabs.org/v2", kind = "Mysqlbackup" }

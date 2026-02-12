@@ -1,0 +1,1 @@
+{ apiVersion = "actions.summerwind.dev/v1alpha1", kind = "Runnerdeployment" }

@@ -1,0 +1,1 @@
+{ apiVersion = "security.istio.io/v1", kind = "Authorizationpolicy" }

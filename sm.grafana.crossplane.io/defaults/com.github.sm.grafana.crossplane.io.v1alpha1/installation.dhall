@@ -1,0 +1,1 @@
+{ apiVersion = "sm.grafana.crossplane.io/v1alpha1", kind = "Installation" }

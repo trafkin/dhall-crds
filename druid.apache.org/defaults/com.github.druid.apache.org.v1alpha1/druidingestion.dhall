@@ -1,0 +1,1 @@
+{ apiVersion = "druid.apache.org/v1alpha1", kind = "Druidingestion" }

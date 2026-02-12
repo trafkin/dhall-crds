@@ -1,0 +1,1 @@
+{ apiVersion = "mlengine.cnrm.cloud.google.com/v1alpha1", kind = "Mlenginemodel" }

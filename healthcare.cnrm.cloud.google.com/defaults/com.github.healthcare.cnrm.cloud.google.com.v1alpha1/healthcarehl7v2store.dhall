@@ -1,0 +1,1 @@
+{ apiVersion = "healthcare.cnrm.cloud.google.com/v1alpha1", kind = "Healthcarehl7v2store" }

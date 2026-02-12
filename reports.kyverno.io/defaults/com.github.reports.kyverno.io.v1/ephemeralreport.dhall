@@ -1,0 +1,1 @@
+{ apiVersion = "reports.kyverno.io/v1", kind = "Ephemeralreport" }

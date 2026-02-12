@@ -1,0 +1,1 @@
+{ apiVersion = "appconfiguration.azure.com/v1api20220501", kind = "Configurationstore" }

@@ -1,0 +1,1 @@
+{ apiVersion = "logging-extensions.banzaicloud.io/v1alpha1", kind = "Hosttailer" }

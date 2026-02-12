@@ -1,0 +1,1 @@
+{ apiVersion = "sql.azure.com/v1api20211101", kind = "Serversipv6firewallrule" }

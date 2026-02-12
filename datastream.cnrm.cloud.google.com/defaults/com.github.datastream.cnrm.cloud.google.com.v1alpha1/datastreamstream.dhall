@@ -1,0 +1,1 @@
+{ apiVersion = "datastream.cnrm.cloud.google.com/v1alpha1", kind = "Datastreamstream" }

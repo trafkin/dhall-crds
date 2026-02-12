@@ -1,0 +1,1 @@
+{ apiVersion = "clickhouse-keeper.altinity.com/v1", kind = "Clickhousekeeperinstallation" }

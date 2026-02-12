@@ -1,0 +1,1 @@
+{ apiVersion = "externaldns.nginx.org/v1", kind = "Dnsendpoint" }

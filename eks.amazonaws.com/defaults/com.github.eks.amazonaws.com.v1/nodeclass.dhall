@@ -1,0 +1,1 @@
+{ apiVersion = "eks.amazonaws.com/v1", kind = "Nodeclass" }

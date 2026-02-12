@@ -1,0 +1,1 @@
+{ apiVersion = "secrets.hashicorp.com/v1beta1", kind = "Vaultstaticsecret" }

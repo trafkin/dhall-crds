@@ -1,0 +1,1 @@
+{ apiVersion = "acid.zalan.do/v1", kind = "Operatorconfiguration" }

@@ -1,0 +1,1 @@
+{ apiVersion = "templates.gatekeeper.sh/v1beta1", kind = "Constrainttemplate" }

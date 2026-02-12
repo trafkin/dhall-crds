@@ -1,0 +1,1 @@
+{ apiVersion = "apps.jfrog.com/v1alpha1", kind = "Secretrotator" }

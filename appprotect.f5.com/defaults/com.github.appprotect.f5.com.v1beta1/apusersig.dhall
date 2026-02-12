@@ -1,0 +1,1 @@
+{ apiVersion = "appprotect.f5.com/v1beta1", kind = "Apusersig" }

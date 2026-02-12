@@ -1,0 +1,1 @@
+{ apiVersion = "karpenter.azure.com/v1beta1", kind = "Aksnodeclass" }

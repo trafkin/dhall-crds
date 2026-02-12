@@ -1,0 +1,1 @@
+{ apiVersion = "eraser.sh/v1", kind = "Imagejob" }

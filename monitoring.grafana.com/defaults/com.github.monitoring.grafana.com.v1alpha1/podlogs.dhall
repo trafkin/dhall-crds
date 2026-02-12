@@ -1,0 +1,1 @@
+{ apiVersion = "monitoring.grafana.com/v1alpha1", kind = "Podlogs" }

@@ -1,0 +1,1 @@
+{ apiVersion = "instancetype.kubevirt.io/v1beta1", kind = "Virtualmachineinstancetype" }

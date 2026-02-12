@@ -1,0 +1,1 @@
+{ apiVersion = "dynatrace.com/v1beta5", kind = "Dynakube" }

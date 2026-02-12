@@ -1,0 +1,1 @@
+{ apiVersion = "status.gatekeeper.sh/v1beta1", kind = "Mutatorpodstatus" }

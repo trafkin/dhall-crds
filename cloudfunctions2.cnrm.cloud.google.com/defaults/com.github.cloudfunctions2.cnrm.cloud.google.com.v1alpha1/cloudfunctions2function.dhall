@@ -1,0 +1,1 @@
+{ apiVersion = "cloudfunctions2.cnrm.cloud.google.com/v1alpha1", kind = "Cloudfunctions2function" }

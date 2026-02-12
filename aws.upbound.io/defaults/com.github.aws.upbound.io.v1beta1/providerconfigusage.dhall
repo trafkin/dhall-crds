@@ -1,0 +1,1 @@
+{ apiVersion = "aws.upbound.io/v1beta1", kind = "Providerconfigusage" }

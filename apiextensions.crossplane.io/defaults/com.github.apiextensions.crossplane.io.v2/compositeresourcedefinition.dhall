@@ -1,0 +1,1 @@
+{ apiVersion = "apiextensions.crossplane.io/v2", kind = "Compositeresourcedefinition" }

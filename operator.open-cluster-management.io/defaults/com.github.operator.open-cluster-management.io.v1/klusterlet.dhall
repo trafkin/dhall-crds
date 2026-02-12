@@ -1,0 +1,1 @@
+{ apiVersion = "operator.open-cluster-management.io/v1", kind = "Klusterlet" }

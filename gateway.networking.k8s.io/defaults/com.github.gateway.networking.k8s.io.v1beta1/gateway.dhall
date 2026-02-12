@@ -1,0 +1,1 @@
+{ apiVersion = "gateway.networking.k8s.io/v1beta1", kind = "Gateway" }

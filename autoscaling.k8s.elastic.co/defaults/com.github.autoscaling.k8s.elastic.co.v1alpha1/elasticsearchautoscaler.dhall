@@ -1,0 +1,1 @@
+{ apiVersion = "autoscaling.k8s.elastic.co/v1alpha1", kind = "Elasticsearchautoscaler" }

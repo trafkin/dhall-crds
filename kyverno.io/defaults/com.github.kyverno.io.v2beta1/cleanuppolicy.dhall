@@ -1,0 +1,1 @@
+{ apiVersion = "kyverno.io/v2beta1", kind = "Cleanuppolicy" }

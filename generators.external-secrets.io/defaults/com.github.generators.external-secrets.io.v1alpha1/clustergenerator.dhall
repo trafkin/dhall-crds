@@ -1,0 +1,1 @@
+{ apiVersion = "generators.external-secrets.io/v1alpha1", kind = "Clustergenerator" }

@@ -1,0 +1,1 @@
+{ apiVersion = "protection.crossplane.io/v1beta1", kind = "Clusterusage" }

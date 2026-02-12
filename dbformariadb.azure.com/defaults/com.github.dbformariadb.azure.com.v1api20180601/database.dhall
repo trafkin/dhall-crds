@@ -1,0 +1,1 @@
+{ apiVersion = "dbformariadb.azure.com/v1api20180601", kind = "Database" }

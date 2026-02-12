@@ -1,0 +1,1 @@
+{ apiVersion = "exoscale.appcat.vshn.io/v1", kind = "Exoscaleredis" }

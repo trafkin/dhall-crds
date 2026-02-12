@@ -1,0 +1,1 @@
+{ apiVersion = "ec2.aws.m.upbound.io/v1beta1", kind = "Transitgatewaypeeringattachmentaccepter" }

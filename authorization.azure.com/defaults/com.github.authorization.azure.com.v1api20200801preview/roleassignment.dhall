@@ -1,0 +1,1 @@
+{ apiVersion = "authorization.azure.com/v1api20200801preview", kind = "Roleassignment" }

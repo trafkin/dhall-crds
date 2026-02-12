@@ -1,0 +1,1 @@
+{ apiVersion = "awspca.cert-manager.io/v1beta1", kind = "Awspcaclusterissuer" }

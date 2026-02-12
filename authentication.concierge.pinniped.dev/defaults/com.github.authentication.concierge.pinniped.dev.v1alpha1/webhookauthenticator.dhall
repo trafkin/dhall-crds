@@ -1,0 +1,1 @@
+{ apiVersion = "authentication.concierge.pinniped.dev/v1alpha1", kind = "Webhookauthenticator" }

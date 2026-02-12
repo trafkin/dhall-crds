@@ -1,0 +1,1 @@
+{ apiVersion = "eventhub.azure.com/v1api20211101", kind = "Namespaceseventhub" }

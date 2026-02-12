@@ -1,0 +1,1 @@
+{ apiVersion = "external-secrets.io/v1", kind = "Clustersecretstore" }

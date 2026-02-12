@@ -1,0 +1,1 @@
+{ apiVersion = "mutations.gatekeeper.sh/v1alpha1", kind = "Assignimage" }

@@ -1,0 +1,1 @@
+{ apiVersion = "lambda.services.k8s.aws/v1alpha1", kind = "Codesigningconfig" }

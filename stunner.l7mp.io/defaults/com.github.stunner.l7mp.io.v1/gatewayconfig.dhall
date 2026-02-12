@@ -1,0 +1,1 @@
+{ apiVersion = "stunner.l7mp.io/v1", kind = "Gatewayconfig" }

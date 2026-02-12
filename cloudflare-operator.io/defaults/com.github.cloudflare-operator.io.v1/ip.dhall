@@ -1,0 +1,1 @@
+{ apiVersion = "cloudflare-operator.io/v1", kind = "Ip" }

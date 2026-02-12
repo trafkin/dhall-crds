@@ -1,0 +1,1 @@
+{ apiVersion = "subscription.azure.com/v1api20211001", kind = "Alias" }

@@ -1,0 +1,1 @@
+{ apiVersion = "restate.dev/v1beta1", kind = "Restatedeployment" }

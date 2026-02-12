@@ -1,0 +1,1 @@
+{ apiVersion = "kubevirt.io/v1alpha3", kind = "Virtualmachineinstancemigration" }

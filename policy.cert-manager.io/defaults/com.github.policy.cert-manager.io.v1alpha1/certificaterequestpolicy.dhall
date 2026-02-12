@@ -1,0 +1,1 @@
+{ apiVersion = "policy.cert-manager.io/v1alpha1", kind = "Certificaterequestpolicy" }

@@ -1,0 +1,1 @@
+{ apiVersion = "batch.azure.com/v1api20210101", kind = "Batchaccount" }

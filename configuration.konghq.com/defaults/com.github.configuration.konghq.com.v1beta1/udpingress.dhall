@@ -1,0 +1,1 @@
+{ apiVersion = "configuration.konghq.com/v1beta1", kind = "Udpingress" }

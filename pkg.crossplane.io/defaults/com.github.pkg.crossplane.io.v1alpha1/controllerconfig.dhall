@@ -1,0 +1,1 @@
+{ apiVersion = "pkg.crossplane.io/v1alpha1", kind = "Controllerconfig" }

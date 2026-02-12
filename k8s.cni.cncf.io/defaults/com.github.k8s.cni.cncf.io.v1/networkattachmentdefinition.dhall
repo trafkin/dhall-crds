@@ -1,0 +1,1 @@
+{ apiVersion = "k8s.cni.cncf.io/v1", kind = "Networkattachmentdefinition" }

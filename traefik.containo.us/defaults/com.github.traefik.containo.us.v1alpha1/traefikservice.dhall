@@ -1,0 +1,1 @@
+{ apiVersion = "traefik.containo.us/v1alpha1", kind = "Traefikservice" }

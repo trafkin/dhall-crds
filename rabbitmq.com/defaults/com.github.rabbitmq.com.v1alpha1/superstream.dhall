@@ -1,0 +1,1 @@
+{ apiVersion = "rabbitmq.com/v1alpha1", kind = "Superstream" }

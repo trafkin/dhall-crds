@@ -1,0 +1,4 @@
+{
+  rbacBindings : List { }
+, status : Optional { }
+}

@@ -1,0 +1,1 @@
+{ apiVersion = "kusto.azure.com/v1api20230815", kind = "Dataconnection" }

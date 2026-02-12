@@ -1,0 +1,1 @@
+{ apiVersion = "kubeflow.org/v1alpha1", kind = "Notebook" }

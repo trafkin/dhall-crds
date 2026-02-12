@@ -1,0 +1,1 @@
+{ apiVersion = "fluxcd.controlplane.io/v1", kind = "Fluxreport" }

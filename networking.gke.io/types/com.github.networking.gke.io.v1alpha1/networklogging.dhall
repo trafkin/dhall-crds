@@ -1,0 +1,4 @@
+{
+  metadata : Optional { }
+, spec : Optional { }
+}

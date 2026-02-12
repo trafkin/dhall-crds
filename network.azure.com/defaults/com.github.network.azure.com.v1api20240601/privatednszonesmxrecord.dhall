@@ -1,0 +1,1 @@
+{ apiVersion = "network.azure.com/v1api20240601", kind = "Privatednszonesmxrecord" }

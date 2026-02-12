@@ -1,0 +1,1 @@
+{ apiVersion = "k8s.mariadb.com/v1alpha1", kind = "Database" }

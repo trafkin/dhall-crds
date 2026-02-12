@@ -1,0 +1,1 @@
+{ apiVersion = "capsule.clastix.io/v1beta1", kind = "Tenant" }

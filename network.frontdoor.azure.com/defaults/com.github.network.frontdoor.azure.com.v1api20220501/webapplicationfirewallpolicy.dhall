@@ -1,0 +1,1 @@
+{ apiVersion = "network.frontdoor.azure.com/v1api20220501", kind = "Webapplicationfirewallpolicy" }

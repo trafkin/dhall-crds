@@ -1,0 +1,1 @@
+{ apiVersion = "cert-manager.io/v1", kind = "Certificaterequest" }

@@ -1,0 +1,1 @@
+{ apiVersion = "talos.dev/v1alpha1", kind = "Serviceaccount" }

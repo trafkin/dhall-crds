@@ -1,0 +1,1 @@
+{ apiVersion = "network.azure.com/v1api20220701", kind = "Dnsresolversoutboundendpoint" }

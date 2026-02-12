@@ -1,0 +1,1 @@
+{ apiVersion = "policy.linkerd.io/v1beta3", kind = "Httproute" }

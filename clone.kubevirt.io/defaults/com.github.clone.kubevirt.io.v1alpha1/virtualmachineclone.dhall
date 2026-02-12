@@ -1,0 +1,1 @@
+{ apiVersion = "clone.kubevirt.io/v1alpha1", kind = "Virtualmachineclone" }

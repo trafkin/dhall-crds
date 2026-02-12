@@ -1,0 +1,1 @@
+{ apiVersion = "devices.azure.com/v1api20210702", kind = "Iothub" }

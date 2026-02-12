@@ -1,0 +1,1 @@
+{ apiVersion = "metal3.io/v1alpha1", kind = "Dataimage" }

@@ -1,0 +1,1 @@
+{ apiVersion = "elbv2.aws.upbound.io/v1beta2", kind = "Lb" }

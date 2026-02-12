@@ -1,0 +1,1 @@
+{ apiVersion = "spv.no/v1", kind = "Azurekeyvaultsecret" }

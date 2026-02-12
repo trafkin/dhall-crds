@@ -1,0 +1,1 @@
+{ apiVersion = "crd.k8s.amazonaws.com/v1alpha1", kind = "Eniconfig" }

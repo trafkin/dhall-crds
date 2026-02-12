@@ -1,0 +1,1 @@
+{ apiVersion = "flagger.app/v1beta1", kind = "Canary" }

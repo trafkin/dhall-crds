@@ -1,0 +1,1 @@
+{ apiVersion = "sqs.aws.upbound.io/v1beta1", kind = "Queueredriveallowpolicy" }

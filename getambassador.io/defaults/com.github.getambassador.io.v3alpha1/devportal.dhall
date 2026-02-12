@@ -1,0 +1,1 @@
+{ apiVersion = "getambassador.io/v3alpha1", kind = "Devportal" }

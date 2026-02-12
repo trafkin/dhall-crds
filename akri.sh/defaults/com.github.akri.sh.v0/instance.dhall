@@ -1,0 +1,1 @@
+{ apiVersion = "akri.sh/v0", kind = "Instance" }

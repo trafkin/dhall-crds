@@ -1,0 +1,1 @@
+{ apiVersion = "piraeus.io/v1", kind = "Linstorcluster" }

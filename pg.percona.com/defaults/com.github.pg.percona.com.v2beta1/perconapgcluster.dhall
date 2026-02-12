@@ -1,0 +1,1 @@
+{ apiVersion = "pg.percona.com/v2beta1", kind = "Perconapgcluster" }

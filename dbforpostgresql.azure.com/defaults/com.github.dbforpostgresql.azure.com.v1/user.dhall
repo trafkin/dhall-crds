@@ -1,0 +1,1 @@
+{ apiVersion = "dbforpostgresql.azure.com/v1", kind = "User" }

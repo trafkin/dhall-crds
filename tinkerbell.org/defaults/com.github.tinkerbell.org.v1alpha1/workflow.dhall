@@ -1,0 +1,1 @@
+{ apiVersion = "tinkerbell.org/v1alpha1", kind = "Workflow" }

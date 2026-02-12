@@ -1,0 +1,1 @@
+{ apiVersion = "kubernetesconfiguration.azure.com/v1api20241101", kind = "Extension" }

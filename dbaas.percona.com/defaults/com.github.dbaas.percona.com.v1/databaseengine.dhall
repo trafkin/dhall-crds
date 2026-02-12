@@ -1,0 +1,1 @@
+{ apiVersion = "dbaas.percona.com/v1", kind = "Databaseengine" }

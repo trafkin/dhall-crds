@@ -1,0 +1,1 @@
+{ apiVersion = "cloud.grafana.crossplane.io/v1alpha1", kind = "Appo11yconfigv1alpha1" }

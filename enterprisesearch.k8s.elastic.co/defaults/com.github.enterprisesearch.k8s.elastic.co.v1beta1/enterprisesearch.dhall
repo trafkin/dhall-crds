@@ -1,0 +1,1 @@
+{ apiVersion = "enterprisesearch.k8s.elastic.co/v1beta1", kind = "Enterprisesearch" }

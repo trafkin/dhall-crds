@@ -1,0 +1,1 @@
+{ apiVersion = "db.atlasgo.io/v1alpha1", kind = "Atlasschema" }

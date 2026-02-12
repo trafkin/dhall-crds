@@ -1,0 +1,1 @@
+{ apiVersion = "apimanagement.azure.com/v1api20220801", kind = "Service" }

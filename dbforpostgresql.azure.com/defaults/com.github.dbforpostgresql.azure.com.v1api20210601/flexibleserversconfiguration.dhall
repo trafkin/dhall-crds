@@ -1,0 +1,1 @@
+{ apiVersion = "dbforpostgresql.azure.com/v1api20210601", kind = "Flexibleserversconfiguration" }

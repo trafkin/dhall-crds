@@ -1,0 +1,1 @@
+{ apiVersion = "barmancloud.cnpg.io/v1", kind = "Objectstore" }

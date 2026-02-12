@@ -1,0 +1,1 @@
+{ apiVersion = "core.openfeature.dev/v1beta1", kind = "Featureflagsource" }

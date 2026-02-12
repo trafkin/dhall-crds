@@ -1,0 +1,1 @@
+{ apiVersion = "cloudsql.cloud.google.com/v1", kind = "Authproxyworkload" }

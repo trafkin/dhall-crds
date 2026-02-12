@@ -1,0 +1,1 @@
+{ apiVersion = "onepassword.com/v1", kind = "Onepassworditem" }

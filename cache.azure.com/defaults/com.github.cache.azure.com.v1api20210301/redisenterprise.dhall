@@ -1,0 +1,1 @@
+{ apiVersion = "cache.azure.com/v1api20210301", kind = "Redisenterprise" }

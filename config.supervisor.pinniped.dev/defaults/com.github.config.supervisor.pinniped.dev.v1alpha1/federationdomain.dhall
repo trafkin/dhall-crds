@@ -1,0 +1,1 @@
+{ apiVersion = "config.supervisor.pinniped.dev/v1alpha1", kind = "Federationdomain" }

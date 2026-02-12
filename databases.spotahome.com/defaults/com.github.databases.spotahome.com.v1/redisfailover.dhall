@@ -1,0 +1,1 @@
+{ apiVersion = "databases.spotahome.com/v1", kind = "Redisfailover" }

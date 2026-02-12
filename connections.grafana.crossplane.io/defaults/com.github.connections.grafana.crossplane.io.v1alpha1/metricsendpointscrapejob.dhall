@@ -1,0 +1,1 @@
+{ apiVersion = "connections.grafana.crossplane.io/v1alpha1", kind = "Metricsendpointscrapejob" }

@@ -1,0 +1,1 @@
+{ apiVersion = "cluster.redpanda.com/v1alpha1", kind = "Redpanda" }

@@ -1,0 +1,1 @@
+{ apiVersion = "gateway.networking.k8s.io/v1", kind = "Grpcroute" }

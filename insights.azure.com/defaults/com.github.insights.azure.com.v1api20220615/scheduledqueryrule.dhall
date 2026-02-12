@@ -1,0 +1,1 @@
+{ apiVersion = "insights.azure.com/v1api20220615", kind = "Scheduledqueryrule" }

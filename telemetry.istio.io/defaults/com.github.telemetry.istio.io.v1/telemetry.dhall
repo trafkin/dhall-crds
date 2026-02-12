@@ -1,0 +1,1 @@
+{ apiVersion = "telemetry.istio.io/v1", kind = "Telemetry" }

@@ -1,0 +1,1 @@
+{ apiVersion = "serviceusage.cnrm.cloud.google.com/v1beta1", kind = "Service" }

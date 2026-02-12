@@ -1,0 +1,7 @@
+{
+  redisenterpriseactiveactivedatabase = ./types/com.github.app.redislabs.com.v1alpha1/redisenterpriseactiveactivedatabase.dhall
+, redisenterprisecluster = ./types/com.github.app.redislabs.com.v1alpha1/redisenterprisecluster.dhall
+, redisenterprisedatabase = ./types/com.github.app.redislabs.com.v1alpha1/redisenterprisedatabase.dhall
+, redisenterpriseremotecluster = ./types/com.github.app.redislabs.com.v1alpha1/redisenterpriseremotecluster.dhall
+, redisenterprisecluster = ./types/com.github.app.redislabs.com.v1/redisenterprisecluster.dhall
+}

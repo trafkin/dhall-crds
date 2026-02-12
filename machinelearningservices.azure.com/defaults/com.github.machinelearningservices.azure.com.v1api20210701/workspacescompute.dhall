@@ -1,0 +1,1 @@
+{ apiVersion = "machinelearningservices.azure.com/v1api20210701", kind = "Workspacescompute" }

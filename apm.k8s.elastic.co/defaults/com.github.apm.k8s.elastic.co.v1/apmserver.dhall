@@ -1,0 +1,1 @@
+{ apiVersion = "apm.k8s.elastic.co/v1", kind = "Apmserver" }

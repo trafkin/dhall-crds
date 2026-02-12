@@ -1,0 +1,1 @@
+{ apiVersion = "kubescape.io/v1", kind = "Servicescanresult" }

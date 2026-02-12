@@ -1,0 +1,1 @@
+{ apiVersion = "mutations.gatekeeper.sh/v1beta1", kind = "Assignmetadata" }

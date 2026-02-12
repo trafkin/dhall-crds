@@ -1,0 +1,1 @@
+{ apiVersion = "expansion.gatekeeper.sh/v1alpha1", kind = "Expansiontemplate" }

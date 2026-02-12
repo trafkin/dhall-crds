@@ -1,0 +1,1 @@
+{ apiVersion = "clickhouse.altinity.com/v1", kind = "Clickhouseinstallationtemplate" }

@@ -1,0 +1,1 @@
+{ apiVersion = "temporal.io/v1beta1", kind = "Temporalnamespace" }

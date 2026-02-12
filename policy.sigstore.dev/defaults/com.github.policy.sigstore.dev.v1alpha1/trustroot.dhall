@@ -1,0 +1,1 @@
+{ apiVersion = "policy.sigstore.dev/v1alpha1", kind = "Trustroot" }

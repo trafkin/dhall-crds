@@ -1,0 +1,1 @@
+{ apiVersion = "karpenter.k8s.aws/v1", kind = "Ec2nodeclass" }

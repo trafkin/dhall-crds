@@ -1,0 +1,1 @@
+{ apiVersion = "velero.io/v1", kind = "Schedule" }

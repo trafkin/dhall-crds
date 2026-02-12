@@ -1,0 +1,1 @@
+{ apiVersion = "getambassador.io/v1beta1", kind = "Ratelimit" }

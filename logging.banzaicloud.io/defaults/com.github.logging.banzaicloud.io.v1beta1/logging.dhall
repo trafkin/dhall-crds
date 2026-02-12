@@ -1,0 +1,1 @@
+{ apiVersion = "logging.banzaicloud.io/v1beta1", kind = "Logging" }

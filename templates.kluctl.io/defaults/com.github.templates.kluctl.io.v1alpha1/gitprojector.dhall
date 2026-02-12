@@ -1,0 +1,1 @@
+{ apiVersion = "templates.kluctl.io/v1alpha1", kind = "Gitprojector" }

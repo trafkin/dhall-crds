@@ -1,0 +1,1 @@
+{ apiVersion = "notificationhubs.azure.com/v1api20230901", kind = "Namespace" }

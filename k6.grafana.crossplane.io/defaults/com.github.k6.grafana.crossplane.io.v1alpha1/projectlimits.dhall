@@ -1,0 +1,1 @@
+{ apiVersion = "k6.grafana.crossplane.io/v1alpha1", kind = "Projectlimits" }

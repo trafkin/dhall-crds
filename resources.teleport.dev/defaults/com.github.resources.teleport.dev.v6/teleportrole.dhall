@@ -1,0 +1,1 @@
+{ apiVersion = "resources.teleport.dev/v6", kind = "Teleportrole" }

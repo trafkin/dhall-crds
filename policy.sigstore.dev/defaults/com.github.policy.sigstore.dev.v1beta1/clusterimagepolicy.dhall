@@ -1,0 +1,1 @@
+{ apiVersion = "policy.sigstore.dev/v1beta1", kind = "Clusterimagepolicy" }

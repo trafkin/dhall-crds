@@ -1,0 +1,1 @@
+{ apiVersion = "pxc.percona.com/v1", kind = "Perconaxtradbclusterrestore" }

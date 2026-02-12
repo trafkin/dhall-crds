@@ -1,0 +1,1 @@
+{ apiVersion = "ingress.v1.haproxy.org/v1", kind = "Defaults" }

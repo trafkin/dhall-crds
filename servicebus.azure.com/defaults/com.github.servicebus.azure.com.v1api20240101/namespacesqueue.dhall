@@ -1,0 +1,1 @@
+{ apiVersion = "servicebus.azure.com/v1api20240101", kind = "Namespacesqueue" }

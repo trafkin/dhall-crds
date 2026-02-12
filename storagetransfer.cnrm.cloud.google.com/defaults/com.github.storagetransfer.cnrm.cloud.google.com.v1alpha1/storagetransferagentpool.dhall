@@ -1,0 +1,1 @@
+{ apiVersion = "storagetransfer.cnrm.cloud.google.com/v1alpha1", kind = "Storagetransferagentpool" }

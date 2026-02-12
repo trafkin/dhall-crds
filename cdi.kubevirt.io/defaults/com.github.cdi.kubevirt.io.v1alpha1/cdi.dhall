@@ -1,0 +1,1 @@
+{ apiVersion = "cdi.kubevirt.io/v1alpha1", kind = "Cdi" }

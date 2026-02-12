@@ -1,0 +1,1 @@
+{ apiVersion = "nvidia.com/v1", kind = "Clusterpolicy" }

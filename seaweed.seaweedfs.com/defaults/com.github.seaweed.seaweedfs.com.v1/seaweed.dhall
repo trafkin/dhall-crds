@@ -1,0 +1,1 @@
+{ apiVersion = "seaweed.seaweedfs.com/v1", kind = "Seaweed" }

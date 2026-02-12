@@ -1,0 +1,1 @@
+{ apiVersion = "rbacmanager.reactiveops.io/v1beta1", kind = "Rbacdefinition" }

@@ -1,0 +1,1 @@
+{ apiVersion = "trident.netapp.io/v1", kind = "Tridentsnapshotinfo" }

@@ -1,0 +1,1 @@
+{ apiVersion = "appgw.ingress.k8s.io/v1", kind = "Azureingressprohibitedtarget" }

@@ -1,0 +1,1 @@
+{ apiVersion = "snapshot.kubevirt.io/v1beta1", kind = "Virtualmachinerestore" }

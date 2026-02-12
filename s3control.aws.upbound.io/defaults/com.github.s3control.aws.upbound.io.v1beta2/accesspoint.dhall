@@ -1,0 +1,1 @@
+{ apiVersion = "s3control.aws.upbound.io/v1beta2", kind = "Accesspoint" }

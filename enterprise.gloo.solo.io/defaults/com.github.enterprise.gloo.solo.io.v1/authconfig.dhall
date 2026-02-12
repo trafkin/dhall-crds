@@ -1,0 +1,1 @@
+{ apiVersion = "enterprise.gloo.solo.io/v1", kind = "Authconfig" }

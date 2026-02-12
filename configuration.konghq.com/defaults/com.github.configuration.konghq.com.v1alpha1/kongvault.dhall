@@ -1,0 +1,1 @@
+{ apiVersion = "configuration.konghq.com/v1alpha1", kind = "Kongvault" }

@@ -1,0 +1,1 @@
+{ apiVersion = "notification.toolkit.fluxcd.io/v1beta1", kind = "Alert" }

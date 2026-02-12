@@ -1,0 +1,1 @@
+{ apiVersion = "renovate-operator.mogenius.com/v1alpha1", kind = "Renovatejob" }

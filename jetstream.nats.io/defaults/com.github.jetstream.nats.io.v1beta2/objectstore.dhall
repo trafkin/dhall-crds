@@ -1,0 +1,1 @@
+{ apiVersion = "jetstream.nats.io/v1beta2", kind = "Objectstore" }

@@ -1,0 +1,1 @@
+{ apiVersion = "snapscheduler.backube/v1", kind = "Snapshotschedule" }

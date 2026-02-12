@@ -1,0 +1,1 @@
+{ apiVersion = "resources.teleport.dev/v1", kind = "Teleportbotv1" }

@@ -1,0 +1,1 @@
+{ apiVersion = "rabbitmq.com/v1beta1", kind = "Binding" }

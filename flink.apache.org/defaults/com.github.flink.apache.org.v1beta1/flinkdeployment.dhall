@@ -1,0 +1,1 @@
+{ apiVersion = "flink.apache.org/v1beta1", kind = "Flinkdeployment" }

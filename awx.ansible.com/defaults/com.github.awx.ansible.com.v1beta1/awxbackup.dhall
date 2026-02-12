@@ -1,0 +1,1 @@
+{ apiVersion = "awx.ansible.com/v1beta1", kind = "Awxbackup" }

@@ -1,0 +1,1 @@
+{ apiVersion = "apps.emqx.io/v2beta1", kind = "Emqx" }

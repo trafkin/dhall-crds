@@ -1,0 +1,1 @@
+{ apiVersion = "resource.streamnative.io/v1alpha1", kind = "Computeworkspace" }

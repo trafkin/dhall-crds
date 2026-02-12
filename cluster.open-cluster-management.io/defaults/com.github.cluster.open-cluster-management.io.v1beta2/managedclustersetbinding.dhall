@@ -1,0 +1,1 @@
+{ apiVersion = "cluster.open-cluster-management.io/v1beta2", kind = "Managedclustersetbinding" }

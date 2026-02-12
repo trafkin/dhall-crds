@@ -1,0 +1,1 @@
+{ apiVersion = "sts.min.io/v1alpha1", kind = "Policybinding" }

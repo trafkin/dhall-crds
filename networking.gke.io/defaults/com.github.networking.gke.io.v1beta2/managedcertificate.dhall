@@ -1,0 +1,1 @@
+{ apiVersion = "networking.gke.io/v1beta2", kind = "Managedcertificate" }

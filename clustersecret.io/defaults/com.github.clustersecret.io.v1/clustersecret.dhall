@@ -1,0 +1,1 @@
+{ apiVersion = "clustersecret.io/v1", kind = "Clustersecret" }

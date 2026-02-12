@@ -1,0 +1,1 @@
+{ apiVersion = "bmc.tinkerbell.org/v1alpha1", kind = "Task" }

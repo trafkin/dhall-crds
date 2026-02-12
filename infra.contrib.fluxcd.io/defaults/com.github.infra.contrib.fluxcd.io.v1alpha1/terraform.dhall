@@ -1,0 +1,1 @@
+{ apiVersion = "infra.contrib.fluxcd.io/v1alpha1", kind = "Terraform" }

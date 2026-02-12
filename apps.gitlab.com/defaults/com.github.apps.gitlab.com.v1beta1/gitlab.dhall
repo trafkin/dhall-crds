@@ -1,0 +1,1 @@
+{ apiVersion = "apps.gitlab.com/v1beta1", kind = "Gitlab" }

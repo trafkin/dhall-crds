@@ -1,0 +1,1 @@
+{ apiVersion = "k8up.io/v1", kind = "Snapshot" }

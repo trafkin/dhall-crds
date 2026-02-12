@@ -1,0 +1,1 @@
+{ apiVersion = "managedkafka.cnrm.cloud.google.com/v1beta1", kind = "Managedkafkatopic" }

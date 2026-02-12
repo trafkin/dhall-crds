@@ -1,0 +1,1 @@
+{ apiVersion = "objectbucket.io/v1alpha1", kind = "Objectbucketclaim" }

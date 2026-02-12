@@ -1,0 +1,1 @@
+{ apiVersion = "redis.redis.opstreelabs.in/v1beta2", kind = "Redisreplication" }

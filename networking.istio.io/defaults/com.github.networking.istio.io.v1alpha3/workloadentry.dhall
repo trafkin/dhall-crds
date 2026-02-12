@@ -1,0 +1,1 @@
+{ apiVersion = "networking.istio.io/v1alpha3", kind = "Workloadentry" }

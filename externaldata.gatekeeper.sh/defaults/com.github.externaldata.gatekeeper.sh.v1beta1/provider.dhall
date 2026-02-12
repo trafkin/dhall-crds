@@ -1,0 +1,1 @@
+{ apiVersion = "externaldata.gatekeeper.sh/v1beta1", kind = "Provider" }

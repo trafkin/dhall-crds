@@ -1,0 +1,1 @@
+{ apiVersion = "mysql.oracle.com/v2", kind = "Mysqlbackup" }

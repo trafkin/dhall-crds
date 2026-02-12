@@ -1,0 +1,1 @@
+{ apiVersion = "export.kubevirt.io/v1alpha1", kind = "Virtualmachineexport" }

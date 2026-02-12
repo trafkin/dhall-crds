@@ -1,0 +1,1 @@
+{ apiVersion = "secretgenerator.mittwald.de/v1alpha1", kind = "Basicauth" }

@@ -1,0 +1,1 @@
+{ apiVersion = "apikeys.cnrm.cloud.google.com/v1alpha1", kind = "Apikeyskey" }

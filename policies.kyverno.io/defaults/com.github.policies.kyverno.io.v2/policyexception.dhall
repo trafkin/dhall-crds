@@ -1,0 +1,1 @@
+{ apiVersion = "policies.kyverno.io/v2", kind = "Policyexception" }

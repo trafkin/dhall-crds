@@ -1,0 +1,1 @@
+{ apiVersion = "documentdb.azure.com/v1api20240815", kind = "Sqldatabasecontainer" }

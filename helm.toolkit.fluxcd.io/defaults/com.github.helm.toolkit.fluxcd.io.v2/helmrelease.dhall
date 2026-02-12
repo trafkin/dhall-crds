@@ -1,0 +1,1 @@
+{ apiVersion = "helm.toolkit.fluxcd.io/v2", kind = "Helmrelease" }
