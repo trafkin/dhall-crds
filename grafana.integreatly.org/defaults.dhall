@@ -1,6 +1,6 @@
 {
-  grafana = ./defaults/com.github.grafana.integreatly.org.v1alpha1/grafana.dhall
-, grafana = ./defaults/com.github.grafana.integreatly.org.v1beta1/grafana.dhall
+  grafana_v1alpha1 = ./defaults/com.github.grafana.integreatly.org.v1alpha1/grafana.dhall
+, grafana_v1beta1 = ./defaults/com.github.grafana.integreatly.org.v1beta1/grafana.dhall
 , grafanaalertrulegroup = ./defaults/com.github.grafana.integreatly.org.v1beta1/grafanaalertrulegroup.dhall
 , grafanacontactpoint = ./defaults/com.github.grafana.integreatly.org.v1beta1/grafanacontactpoint.dhall
 , grafanadashboard = ./defaults/com.github.grafana.integreatly.org.v1beta1/grafanadashboard.dhall

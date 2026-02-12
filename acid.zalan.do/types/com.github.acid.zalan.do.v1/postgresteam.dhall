@@ -1,5 +1,5 @@
 {
-  kind : < "PostgresTeam" >
-, apiVersion : < "acid.zalan.do/v1" >
+  kind : < PostgresTeam >
+, apiVersion : < `acid.zalan.do/v1` >
 , spec : { }
 }

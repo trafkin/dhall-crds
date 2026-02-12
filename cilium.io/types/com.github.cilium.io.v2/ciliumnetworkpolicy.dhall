@@ -3,6 +3,6 @@
 , kind : Optional Text
 , metadata : { }
 , spec : Optional Text
-, specs : Optional List { }
+, specs : Optional (List { })
 , status : Optional { }
 }

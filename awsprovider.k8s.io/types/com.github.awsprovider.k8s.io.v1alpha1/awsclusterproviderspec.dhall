@@ -1,5 +1,5 @@
 {
-  additionalUserDataFiles : Optional List { }
+  additionalUserDataFiles : Optional (List { })
 , apiVersion : Optional Text
 , caKeyPair : Optional { }
 , clusterConfiguration : Optional { }

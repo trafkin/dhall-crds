@@ -1,6 +1,6 @@
 {
   backup = ./types/com.github.postgresql.cnpg.io.v1/backup.dhall
-, cluster = ./types/com.github.postgresql.cnpg.io.v1/cluster.dhall
+, cluster_v1 = ./types/com.github.postgresql.cnpg.io.v1/cluster.dhall
 , clusterimagecatalog = ./types/com.github.postgresql.cnpg.io.v1/clusterimagecatalog.dhall
 , database = ./types/com.github.postgresql.cnpg.io.v1/database.dhall
 , failoverquorum = ./types/com.github.postgresql.cnpg.io.v1/failoverquorum.dhall
@@ -9,5 +9,5 @@
 , publication = ./types/com.github.postgresql.cnpg.io.v1/publication.dhall
 , scheduledbackup = ./types/com.github.postgresql.cnpg.io.v1/scheduledbackup.dhall
 , subscription = ./types/com.github.postgresql.cnpg.io.v1/subscription.dhall
-, cluster = ./types/com.github.postgresql.cnpg.io.v3/cluster.dhall
+, cluster_v3 = ./types/com.github.postgresql.cnpg.io.v3/cluster.dhall
 }

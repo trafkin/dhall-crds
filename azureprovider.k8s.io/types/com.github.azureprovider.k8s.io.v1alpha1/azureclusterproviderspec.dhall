@@ -3,7 +3,7 @@
 , apiVersion : Optional Text
 , caKeyPair : Optional { }
 , clusterConfiguration : Optional { }
-, discoveryHashes : Optional List Text
+, discoveryHashes : Optional (List Text)
 , etcdCAKeyPair : Optional { }
 , frontProxyCAKeyPair : Optional { }
 , kind : Optional Text

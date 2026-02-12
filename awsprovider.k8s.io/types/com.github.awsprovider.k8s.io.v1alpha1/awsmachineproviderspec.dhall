@@ -1,7 +1,7 @@
 {
-  additionalSecurityGroups : Optional List { }
+  additionalSecurityGroups : Optional (List { })
 , additionalTags : Optional { }
-, additionalUserDataFiles : Optional List { }
+, additionalUserDataFiles : Optional (List { })
 , ami : Optional { }
 , apiVersion : Optional Text
 , availabilityZone : Optional Text

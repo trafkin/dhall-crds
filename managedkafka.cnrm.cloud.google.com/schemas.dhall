@@ -1,6 +1,6 @@
 {
-  managedkafkacluster = ./schemas/com.github.managedkafka.cnrm.cloud.google.com.v1alpha1/managedkafkacluster.dhall
-, managedkafkatopic = ./schemas/com.github.managedkafka.cnrm.cloud.google.com.v1alpha1/managedkafkatopic.dhall
-, managedkafkacluster = ./schemas/com.github.managedkafka.cnrm.cloud.google.com.v1beta1/managedkafkacluster.dhall
-, managedkafkatopic = ./schemas/com.github.managedkafka.cnrm.cloud.google.com.v1beta1/managedkafkatopic.dhall
+  managedkafkacluster_v1alpha1 = ./schemas/com.github.managedkafka.cnrm.cloud.google.com.v1alpha1/managedkafkacluster.dhall
+, managedkafkatopic_v1alpha1 = ./schemas/com.github.managedkafka.cnrm.cloud.google.com.v1alpha1/managedkafkatopic.dhall
+, managedkafkacluster_v1beta1 = ./schemas/com.github.managedkafka.cnrm.cloud.google.com.v1beta1/managedkafkacluster.dhall
+, managedkafkatopic_v1beta1 = ./schemas/com.github.managedkafka.cnrm.cloud.google.com.v1beta1/managedkafkatopic.dhall
 }

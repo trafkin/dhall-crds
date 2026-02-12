@@ -19,6 +19,6 @@
 , teleportprovisiontoken = ./schemas/com.github.resources.teleport.dev.v2/teleportprovisiontoken.dhall
 , teleportsamlconnector = ./schemas/com.github.resources.teleport.dev.v2/teleportsamlconnector.dhall
 , teleportuser = ./schemas/com.github.resources.teleport.dev.v2/teleportuser.dhall
-, teleportrole = ./schemas/com.github.resources.teleport.dev.v5/teleportrole.dhall
-, teleportrole = ./schemas/com.github.resources.teleport.dev.v6/teleportrole.dhall
+, teleportrole_v5 = ./schemas/com.github.resources.teleport.dev.v5/teleportrole.dhall
+, teleportrole_v6 = ./schemas/com.github.resources.teleport.dev.v6/teleportrole.dhall
 }

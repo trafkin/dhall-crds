@@ -1,4 +1,4 @@
 {
-  expansiontemplate = ./schemas/com.github.expansion.gatekeeper.sh.v1alpha1/expansiontemplate.dhall
-, expansiontemplate = ./schemas/com.github.expansion.gatekeeper.sh.v1beta1/expansiontemplate.dhall
+  expansiontemplate_v1alpha1 = ./schemas/com.github.expansion.gatekeeper.sh.v1alpha1/expansiontemplate.dhall
+, expansiontemplate_v1beta1 = ./schemas/com.github.expansion.gatekeeper.sh.v1beta1/expansiontemplate.dhall
 }

@@ -3,6 +3,6 @@
 , auth : Optional { }
 , kind : Optional Text
 , metadata : Optional { }
-, scopes : Optional List Text
+, scopes : Optional (List Text)
 , spec : Optional { }
 }

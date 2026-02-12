@@ -1,4 +1,4 @@
 {
-  provider = ./types/com.github.externaldata.gatekeeper.sh.v1alpha1/provider.dhall
-, provider = ./types/com.github.externaldata.gatekeeper.sh.v1beta1/provider.dhall
+  provider_v1alpha1 = ./types/com.github.externaldata.gatekeeper.sh.v1alpha1/provider.dhall
+, provider_v1beta1 = ./types/com.github.externaldata.gatekeeper.sh.v1beta1/provider.dhall
 }

@@ -1,8 +1,8 @@
 {
-  authorizationpolicy = ./defaults/com.github.security.istio.io.v1/authorizationpolicy.dhall
-, peerauthentication = ./defaults/com.github.security.istio.io.v1/peerauthentication.dhall
-, requestauthentication = ./defaults/com.github.security.istio.io.v1/requestauthentication.dhall
-, authorizationpolicy = ./defaults/com.github.security.istio.io.v1beta1/authorizationpolicy.dhall
-, peerauthentication = ./defaults/com.github.security.istio.io.v1beta1/peerauthentication.dhall
-, requestauthentication = ./defaults/com.github.security.istio.io.v1beta1/requestauthentication.dhall
+  authorizationpolicy_v1 = ./defaults/com.github.security.istio.io.v1/authorizationpolicy.dhall
+, peerauthentication_v1 = ./defaults/com.github.security.istio.io.v1/peerauthentication.dhall
+, requestauthentication_v1 = ./defaults/com.github.security.istio.io.v1/requestauthentication.dhall
+, authorizationpolicy_v1beta1 = ./defaults/com.github.security.istio.io.v1beta1/authorizationpolicy.dhall
+, peerauthentication_v1beta1 = ./defaults/com.github.security.istio.io.v1beta1/peerauthentication.dhall
+, requestauthentication_v1beta1 = ./defaults/com.github.security.istio.io.v1beta1/requestauthentication.dhall
 }

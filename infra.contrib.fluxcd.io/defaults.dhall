@@ -1,4 +1,4 @@
 {
-  terraform = ./defaults/com.github.infra.contrib.fluxcd.io.v1alpha1/terraform.dhall
-, terraform = ./defaults/com.github.infra.contrib.fluxcd.io.v1alpha2/terraform.dhall
+  terraform_v1alpha1 = ./defaults/com.github.infra.contrib.fluxcd.io.v1alpha1/terraform.dhall
+, terraform_v1alpha2 = ./defaults/com.github.infra.contrib.fluxcd.io.v1alpha2/terraform.dhall
 }

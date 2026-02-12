@@ -54,7 +54,14 @@ def convert_property [name: string, prop: any, required: bool] {
     if ($prop | get -o enum | is-not-empty) {
         let enum_vals = ($prop | get enum)
         if ($enum_vals | all {|v| ($v | describe) == "string" }) {
-            let union = ($enum_vals | each {|v| $"\"($v)\""} | str join " | ")
+            let union = ($enum_vals | each {|v| 
+                # Escape special characters with backticks if needed
+                if ($v | str contains ".") or ($v | str contains "-") or ($v | str contains "/") {
+                    $"`($v)`"
+                } else {
+                    $v
+                }
+            } | str join " | ")
             if $required {
                 return $"($name) : < ($union) >"
             } else {
@@ -75,7 +82,8 @@ def convert_property [name: string, prop: any, required: bool] {
         if $required {
             return $"($name) : ($base_type)"
         } else {
-            return $"($name) : Optional ($base_type)"
+            # Wrap List in parentheses when inside Optional
+            return $"($name) : Optional \(($base_type)\)"
         }
     }
 
@@ -94,7 +102,7 @@ def convert_property [name: string, prop: any, required: bool] {
             if $required {
                 return $"($name) : ($map_type)"
             } else {
-                return $"($name) : Optional (($map_type))"
+                return $"($name) : Optional \(($map_type)\)"
             }
         }
         if $required {
@@ -202,14 +210,43 @@ def generate_group_aggregates [group_dir: string] {
     let schemas_dir = $"($group_dir)/schemas"
     let defaults_dir = $"($group_dir)/defaults"
 
+    # Helper function to extract version from version_dir (e.g., "com.github.foo.v1beta1" -> "v1beta1")
+    def extract_version [version_dir: string] {
+        if ($version_dir | str contains ".v") {
+            $version_dir | split row ".v" | last | "v" + $in
+        } else {
+            "v1"
+        }
+    }
+
     # Generate types.dhall for this group
     if ($types_dir | path exists) {
         let type_files = (glob $"($types_dir)/*/*.dhall")
         if ($type_files | is-not-empty) {
-            let entries = ($type_files | each {|tf|
+            # Build map of resource names to their versions
+            let resource_versions = ($type_files | each {|tf|
                 let version_dir = ($tf | path dirname | path basename)
                 let type_name = ($tf | path parse | get stem)
-                $", ($type_name) = ./types/($version_dir)/($type_name).dhall"
+                let version = (extract_version $version_dir)
+                { name: $type_name, version: $version, path: $version_dir }
+            })
+
+            # Count occurrences of each resource name
+            let grouped = ($resource_versions | group-by name)
+            let name_counts = ($grouped | columns | each {|k| 
+                { name: $k, count: ($grouped | get $k | length) }
+            })
+
+            # Generate entries with version suffix if needed
+            let entries = ($resource_versions | each {|r|
+                let count = ($name_counts | where name == $r.name | get --optional 0.count | default 1)
+                let field_name = if $count > 1 {
+                    # Include version in field name for disambiguation
+                    $"($r.name)_($r.version)"
+                } else {
+                    $r.name
+                }
+                $", ($field_name) = ./types/($r.path)/($r.name).dhall"
             })
             let content = "{\n  " + (($entries | str join "\n") | str substring 2..) + "\n}"
             $content | save -f $"($group_dir)/types.dhall"
@@ -220,10 +257,26 @@ def generate_group_aggregates [group_dir: string] {
     if ($schemas_dir | path exists) {
         let schema_files = (glob $"($schemas_dir)/*/*.dhall")
         if ($schema_files | is-not-empty) {
-            let entries = ($schema_files | each {|sf|
+            let resource_versions = ($schema_files | each {|sf|
                 let version_dir = ($sf | path dirname | path basename)
                 let schema_name = ($sf | path parse | get stem)
-                $", ($schema_name) = ./schemas/($version_dir)/($schema_name).dhall"
+                let version = (extract_version $version_dir)
+                { name: $schema_name, version: $version, path: $version_dir }
+            })
+
+            let grouped = ($resource_versions | group-by name)
+            let name_counts = ($grouped | columns | each {|k| 
+                { name: $k, count: ($grouped | get $k | length) }
+            })
+
+            let entries = ($resource_versions | each {|r|
+                let count = ($name_counts | where name == $r.name | get --optional 0.count | default 1)
+                let field_name = if $count > 1 {
+                    $"($r.name)_($r.version)"
+                } else {
+                    $r.name
+                }
+                $", ($field_name) = ./schemas/($r.path)/($r.name).dhall"
             })
             let content = "{\n  " + (($entries | str join "\n") | str substring 2..) + "\n}"
             $content | save -f $"($group_dir)/schemas.dhall"
@@ -234,10 +287,26 @@ def generate_group_aggregates [group_dir: string] {
     if ($defaults_dir | path exists) {
         let default_files = (glob $"($defaults_dir)/*/*.dhall")
         if ($default_files | is-not-empty) {
-            let entries = ($default_files | each {|df|
+            let resource_versions = ($default_files | each {|df|
                 let version_dir = ($df | path dirname | path basename)
                 let default_name = ($df | path parse | get stem)
-                $", ($default_name) = ./defaults/($version_dir)/($default_name).dhall"
+                let version = (extract_version $version_dir)
+                { name: $default_name, version: $version, path: $version_dir }
+            })
+
+            let grouped = ($resource_versions | group-by name)
+            let name_counts = ($grouped | columns | each {|k| 
+                { name: $k, count: ($grouped | get $k | length) }
+            })
+
+            let entries = ($resource_versions | each {|r|
+                let count = ($name_counts | where name == $r.name | get --optional 0.count | default 1)
+                let field_name = if $count > 1 {
+                    $"($r.name)_($r.version)"
+                } else {
+                    $r.name
+                }
+                $", ($field_name) = ./defaults/($r.path)/($r.name).dhall"
             })
             let content = "{\n  " + (($entries | str join "\n") | str substring 2..) + "\n}"
             $content | save -f $"($group_dir)/defaults.dhall"

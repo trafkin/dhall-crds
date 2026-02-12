@@ -1,7 +1,7 @@
 {
   apiVersion : Optional Text
 , collection : Optional { }
-, exports : Optional List { }
+, exports : Optional (List { })
 , features : Optional { }
 , kind : Optional Text
 , managedAlertmanager : Optional { }
